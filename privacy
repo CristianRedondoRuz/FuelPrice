@@ -1,0 +1,110 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="canonical" href="https://cristianredondoruz.github.io/FuelPrice/privacy.html">
+    
+    <title>Política de Privacidad - FuelPrice</title>
+    <style>
+        body { font-family: sans-serif; line-height: 1.6; color: #333; max-width: 800px; margin: 0 auto; padding: 20px; position: relative; }
+        h1 { color: #2c3e50; }
+        h2 { color: #2980b9; margin-top: 30px; }
+        .icon { text-align: center; margin-bottom: 20px; }
+        .highlight { font-weight: bold; }
+        
+        .language-container {
+            text-align: right;
+            margin-bottom: 10px;
+        }
+        .language-switcher-link {
+            color: #2980b9;
+            text-decoration: none;
+            font-weight: bold;
+            font-size: 14px;
+            border: 1px solid #2980b9;
+            padding: 4px 10px;
+            border-radius: 4px;
+            transition: background-color 0.2s, color 0.2s;
+        }
+        .language-switcher-link:hover {
+            background-color: #2980b9;
+            color: white;
+        }
+    </style>
+</head>
+<body style="margin-bottom:40px;">
+
+    <div class="language-container">
+        <a href="/FuelPrice/en/privacy.html" class="language-switcher-link">🌐 English</a>
+    </div>
+
+    <div class="icon">
+        <img src="https://cristianredondoruz.github.io/FuelPrice/fuelprice_icon.png"
+             alt="Icono de FuelPrice"
+             style="width:100px; height:100px; object-fit:contain;">
+    </div>
+
+    <h1>Política de Privacidad</h1>
+    <p>Última actualización: Septiembre 2026</p>
+
+    <p>FuelPrice ("nosotros", "la aplicación") se compromete a proteger la privacidad de sus usuarios. Esta política describe cómo se gestionan los datos cuando utiliza la aplicación FuelPrice.</p>
+
+    <h2>1. Datos de ubicación</h2>
+    <p>FuelPrice puede solicitar acceso a la ubicación del dispositivo para mostrar las gasolineras más cercanas al usuario y facilitar la búsqueda de estaciones de servicio próximas.</p>
+
+    <p>La ubicación se utiliza para proporcionar esta funcionalidad y no almacenamos ni compartimos directamente su ubicación personal en servidores propios.</p>
+
+    <h2>2. Información sobre precios de combustible</h2>
+    <p>FuelPrice utiliza información pública sobre precios y estaciones de servicio proporcionada por fuentes oficiales, incluyendo datos del <span class="highlight">Ministerio para la Transición Ecológica y el Reto Demográfico (MITECO)</span>.</p>
+
+    <p>Estos datos se utilizan exclusivamente para mostrar información sobre las estaciones de servicio y sus precios de combustible dentro de la aplicación.</p>
+
+    <h2>3. Servicios de terceros (Anuncios y Analítica)</h2>
+    <p>Para mantener la aplicación gratuita y mejorar su funcionamiento, utilizamos servicios de terceros:</p>
+
+    <ul>
+        <li><strong>Google AdMob:</strong> FuelPrice utiliza Google AdMob para mostrar anuncios. AdMob puede recopilar identificadores de publicidad, información del dispositivo y otros datos necesarios para proporcionar, medir y personalizar los anuncios, de acuerdo con las preferencias de privacidad del usuario y la normativa aplicable.</li>
+
+        <li><strong>Google Analytics para Firebase:</strong> Podemos utilizar Firebase Analytics para recopilar información estadística sobre el uso de la aplicación, como eventos, modelo de dispositivo, sistema operativo y otra información técnica, con el objetivo de comprender el uso de la aplicación y mejorar su funcionamiento.</li>
+    </ul>
+
+    <h2>4. Consentimiento y usuarios de la Unión Europea</h2>
+    <p>Para los usuarios del Espacio Económico Europeo (EEE), Reino Unido y Suiza, FuelPrice utiliza el sistema de gestión del consentimiento de Google para solicitar y gestionar las preferencias relacionadas con el uso de datos personales para publicidad y otros fines.</p>
+
+    <p>Los usuarios pueden aceptar, rechazar o gestionar sus preferencias de consentimiento cuando se les muestre el mensaje correspondiente. También pueden modificar sus preferencias posteriormente desde las opciones de privacidad disponibles en la aplicación, cuando esta función esté disponible.</p>
+
+    <h2>5. Almacenamiento local</h2>
+    <p>FuelPrice puede almacenar determinados datos de configuración y preferencias de la aplicación de forma local en el dispositivo. Estos datos se utilizan para que la aplicación pueda funcionar correctamente y recordar las preferencias del usuario.</p>
+
+    <h2>6. Seguridad y terceros</h2>
+    <p>FuelPrice no vende los datos personales de sus usuarios. Los servicios de terceros utilizados por la aplicación pueden procesar determinados datos de acuerdo con sus propias políticas de privacidad y las finalidades para las que han sido integrados.</p>
+
+    <h2>7. Derechos de los usuarios</h2>
+    <p>Si reside en el Espacio Económico Europeo (EEE), Reino Unido o Suiza, tiene determinados derechos en relación con sus datos personales, incluyendo el derecho de acceso, rectificación, supresión, oposición y limitación del tratamiento, cuando sean aplicables.</p>
+
+    <p>Las solicitudes relacionadas con el tratamiento de datos realizado directamente por servicios de terceros deberán dirigirse también al proveedor correspondiente, como Google, cuando proceda.</p>
+
+    <h2>8. Contacto</h2>
+    <p>Para cualquier duda relacionada con esta política de privacidad o con FuelPrice, puede contactarnos en:</p>
+
+    <p>
+        <a href="mailto:todolistas.app@gmail.com">todolistas.app@gmail.com</a>
+    </p>
+
+    <footer style="margin-top:50px; text-align:center; font-size:14px; color:#666; border-top:1px solid #eee; padding-top:20px;">
+        <p>&copy; 2026 FuelPrice App</p>
+
+        <a href="/FuelPrice/" style="color:#2980b9; text-decoration:none;">
+            ← Inicio
+        </a>
+
+        <span style="margin:0 10px;">|</span>
+
+        <a href="mailto:todolistas.app@gmail.com" style="color:#2980b9; text-decoration:none;">
+            Contacto
+        </a>
+    </footer>
+
+</body>
+</html>
